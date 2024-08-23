@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6a783cf3-adfa-4d71-bb12-92bcdd3f712b
 # Optimus Blender Addon
 
 **Optimus** is a blender plug-in that compacts simple to use optimizations into a single button
@@ -53,6 +55,10 @@ Decimate objects in the scene based on their distance from the active camera. Ob
 - **Distance Threshold**: Set the distance threshold for when decimation should start.
 - **Decimate per Meter**: Define how much decimation should increase per meter beyond the threshold.
 - **Minimum Decimation Ratio**: Set the minimum ratio of decimation to be applied to distant objects.
+
+
+https://github.com/user-attachments/assets/553b2f07-8644-4cda-bef6-f58de2f65211
+
 
 #### How it works
 - The addon calculates the distance of each object from the active camera.
