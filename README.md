@@ -8,6 +8,10 @@
 
 ### 1. Create Camera and Render Textured Planes
 
+
+https://github.com/user-attachments/assets/05b87532-8a7a-463a-b9dc-8b493675a3f0
+
+
 This feature allows you to create an orthographic camera aligned with the selected object, render the object, and automatically create a plane with the rendered texture applied to it. This is especially useful for optimizing scenes by converting complex objects into textured planes.
 
 - **Resolution**: Set the resolution of the rendered image.
