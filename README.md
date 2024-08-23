@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/6a783cf3-adfa-4d71-bb12-92bcdd3f712b
+
 # Optimus Blender Addon
 
 **Optimus** is a blender plug-in that compacts simple to use optimizations into a single button
